@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-thorat-384355263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/tushar_thorat/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tushar-thorat-384355263/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="https://leetcode.com/tushar_thorat/" height="30" width="40" /></a>
+<a href="https://leetcode.com/tushar_thorat/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="https://leetcode.com/tushar_thorat/" height="30" width="40" /></a>
 
 
 </p>
